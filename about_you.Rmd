@@ -44,7 +44,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+   I want to be a data scientist in healthcare. I want to create unbiased AI detection framework. I currently have a bachelor's degree in math and am going to pursue my Master's in data science this fall.
  
 
 
